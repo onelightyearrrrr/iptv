@@ -1,6 +1,6 @@
-#EXTINF:-1 tvg-id="SkyRacing1.au",Sky Racing 1
+#EXTINF:-1 tvg-id="SkyRacing1.au" tvg-logo="https://media.info/l/o/6/6402.1514269404.png", Sky Racing 1
 https://skylivetab-new.akamaized.net/hls/live/2038780/sky1/index.m3u8
-#EXTINF:-1 tvg-id="SkyRacing2.au",Sky Racing 2
+#EXTINF:-1 tvg-id="SkyRacing2.au" tvg-logo="https://media.info/l/o/6/6411.1514269377.png", Sky Racing 2
 https://skylivetab-new.akamaized.net/hls/live/2038781/sky2/index.m3u8
-#EXTINF:-1 tvg-id="SkyThoroughbredCentral.au",Sky Thoroughbred Central
+#EXTINF:-1 tvg-id="SkyThoroughbredCentral.au" tvg-logo="https://media.info/l/o/6/6412.1482296522.png", Sky Thoroughbred Central
 https://skylivetab-new.akamaized.net/hls/live/2038782/stcsd/index.m3u8
